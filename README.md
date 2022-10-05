@@ -18,3 +18,6 @@ https://pbpython.com/categorical-encoding.html
 
 ### One-hot Encoding
 https://stackoverflow.com/questions/55525195/do-i-have-to-do-one-hot-encoding-separately-for-train-and-test-dataset
+
+
+https://gitlab.com/imda_dsl/ai-shopfloor/sport-sg/pii-hashing
